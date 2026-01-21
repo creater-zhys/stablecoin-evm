@@ -1,0 +1,15 @@
+{
+  "SignatureChecker": {
+    "contractAddress": "0xab33fc86420debaa4243a9a4e7f76c41791bc197",
+    "contractCreationTxHash": "0x86bc1b01dc9dcc9b1925e0026a0ef0bc9fa14836e85ad74c0f1ffa4a2370a661"
+  },
+  "FiatTokenV2_2": {
+    "contractAddress": "0x876caF75A03Ef3d858f7ec4Ca78A7fC9f2F746D9",
+    "contractCreationTxHash": "0x52544d4ef1d8b39b2b015a3945dc8738cafc578d2a62f6ee666d17a4e451ee87"
+  },
+  "FiatTokenProxy": {
+    "contractAddress": "0x39C010dF583C9dE49088947190669883b41A02Ab",
+    "contractCreationTxHash": "0x207efb516eb59730e43dfb6cf4cec210aedbc01b9f12c5b2035e0ffcf6a41de1"
+  },
+  "rpcUrl": "https://rpc.jovay.io"
+}
